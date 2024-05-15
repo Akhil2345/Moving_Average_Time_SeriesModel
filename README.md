@@ -1,0 +1,2 @@
+# Moving_Average_Time_SeriesModel
+Implementing_Moving_Average_TimeSeries_Model
